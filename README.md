@@ -1,8 +1,20 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center">
+  Hey there, I'm Quang
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div id="view_counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=cmq2002&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="badges" align="center">
+---
+
+### About Me :
+- Third-year Student at Ho Chi Minh City University of Technology - HCMUT
+- Major in Computer Engineering
+
+### Contact Me:
+<div id="badges" align="left">
   <a href="https://www.facebook.com/quang.caominh.79">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -10,21 +22,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
-<div id="view_counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=cmq2002&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1 align="center">
-  Hey there, I'm Quang
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
----
-
-### About Me :
-- Third-year Student at Ho Chi Minh City University of Technology - HCMUT
-- Major in Computer Engineering
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmq2002&layout=compact)](https://github.com/cmq2002/github-readme-stats)
