@@ -13,6 +13,12 @@
 - Third-year Student at Ho Chi Minh City University of Technology - HCMUT
 - Major in Computer Engineering
 
+<a href='https://github.com/cmq2002/CV_template/blob/main/CV_template%20(1).pdf' align = "left">
+    <button class="GFG">
+        Here is my CV
+    </button>
+</a>
+
 ### Contact Me Via:
 <div id="badges" align="left">
   <a href="https://www.facebook.com/quang.caominh.79">
