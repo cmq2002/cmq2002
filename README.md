@@ -12,6 +12,7 @@
 ### About Me :
 - Third-year Student at Ho Chi Minh City University of Technology - HCMUT
 - Major in Computer Engineering
+- Specialized in Iots and Network Security
 
 <a href='https://github.com/cmq2002/CV_template/blob/main/CV_template%20(1).pdf' align = "left">
     <button class="GFG">
