@@ -13,9 +13,9 @@
 - Third-year Student at Ho Chi Minh City University of Technology - HCMUT
 - Major in Computer Engineering
 - Specialized in Iots and Network Security
-- <a href='https://github.com/cmq2002/CV_template/blob/main/CV_template.pdf' align = "left">
+- <a href='https://drive.google.com/file/d/1PaUuwJ11qZ-_1aN_Y19Hqhj-WB1dSeyT/view?usp=sharing' align = "left">
     <button class="GFG">
-        Here is my CV
+        Here is my Resume
     </button>
  </a>
 
