@@ -15,7 +15,7 @@
 - Specialized in Iots and Network Security
 - <a href='https://drive.google.com/file/d/1PaUuwJ11qZ-_1aN_Y19Hqhj-WB1dSeyT/view?usp=sharing' align = "left">
     <button class="GFG">
-        Here is my Resume
+        Here is my resume
     </button>
  </a>
 
