@@ -1,5 +1,5 @@
 <h1 align="center">
-  Good day guys, I'm Cao Minh Quang.
+  Good day guys!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
