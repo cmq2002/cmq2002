@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="view_counter" align="center">
+<!-- <div id="view_counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=cmq2002&style=flat-square&color=blue" alt=""/>
 </div>
-
+ -->
 ---
 
 ### About Me :
