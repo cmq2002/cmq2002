@@ -11,8 +11,8 @@
 
 ### About Me :
 - Third-year Student at Ho Chi Minh City University of Technology - HCMUT
-- Major in Computer Engineering
-- Specialized in IoTs and Network Security
+<!-- - Major in Computer Engineering
+- Specialized in IoTs and Network Security -->
 - <a href='https://drive.google.com/file/d/1PaUuwJ11qZ-_1aN_Y19Hqhj-WB1dSeyT/view?usp=sharing' align = "left"> Here is my resume </a>
 
 ### Contact Me Via:
