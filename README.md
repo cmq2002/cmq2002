@@ -12,7 +12,7 @@
 - Third-year Student at Ho Chi Minh City University of Technology - HCMUT
 <!-- - Major in Computer Engineering
 - Specialized in IoTs and Network Security -->
-- <a href='https://drive.google.com/file/d/1aMuQEaYFpeybc_wwIVbbuvVpcqnOH4KG/view?usp=sharing' align = "left"> Here is my resume </a>
+- <a href='https://drive.google.com/file/d/14Dc8HAzeRyB_42cQcTNQrFZitx3c85TM/view?usp=sharing' align = "left"> Here is my resume </a>
 
 ### Contact Me Via:
 <div id="badges" align="left">
